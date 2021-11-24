@@ -1,6 +1,6 @@
 # Text Summarization Model using Double Embedding
 
-The project is focusing on text summarization of court judgement of New Zealand.
+The project is focusing on text summarization of the high court judgment of New Zealand.
 
 ## Dependencies
 
